@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Algernon98" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Algernon98&theme=xcode" /> </div>
 <div align="center"> <img src="https://metrics.lecoq.io/Algernon98?template=classic&config.timezone=Asia%2FShanghai"> </div>
