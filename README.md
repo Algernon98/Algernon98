@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Algernon98" /> </div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Algernon98&show_icons=true&theme=light&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Algernon98&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Algernon98&theme=light&layout=compact)
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Algernon98&theme=xcode" /> </div>
