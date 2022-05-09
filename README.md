@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlgernon98)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img src="https://metrics.lecoq.io/Algernon98?template=classic&config.timezone=Asia%2FShanghai"> </div>
