@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center"> <img src="https://metrics.lecoq.io/Algernon98?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Algernon98" /> </div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Algernon98&show_icons=true&theme=dark&count_private=true)
@@ -22,4 +24,4 @@ Here are some ideas to get you started:
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Algernon98&theme=xcode" /> </div>
-<div align="center"> <img src="https://metrics.lecoq.io/Algernon98?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
