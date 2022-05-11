@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@A?theme=rule34"></a><br>
+
 
 <div align="center"> <img src="https://metrics.lecoq.io/Algernon98?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
