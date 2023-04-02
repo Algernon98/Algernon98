@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 我的bilibili空间(Bilibili Video) https://space.bilibili.com/281724502
 - 🌱 我的CSDN博客(CSDN Blog) https://blog.csdn.net/Algernon98
-- 👯 我的微信公众号（Wechat Official Accounts）仿生bio sheep
+
 <div align="center"> <img src="https://metrics.lecoq.io/Algernon98?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Algernon98" /> </div>
